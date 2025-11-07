@@ -71,7 +71,7 @@
 
 🔹 [**BookMosaic**](https://bookmosaic.netlify.app/) – MERN e-commerce platform with Cashfree payments & PDF downloads.  
 🔹 [**TravelMate**](https://travelmate-navy.vercel.app/) – Role-based travel management system with authentication & dashboards.  
-🔹 **Imagify** – AI-powered MERN web app for text-to-image generation *(in progress)*.  
+🔹 [**imagify**](https://myimagify.netlify.app/) – AI-powered MERN web app for text-to-image generation.  
 🔹 **Library Management System** – MEAN stack project with JWT & Jest.  
 🔹 **VisionMart** – Frontend e-commerce platform (HTML, CSS, JS).  
 
